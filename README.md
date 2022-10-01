@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Dwivedi</h1>
-<h3 align="center"><img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/></h3>
+<h3 align="center"><img src="https://github.com/Lonewolf0502/Lonewolf0502/assets/coder.gif"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonewolf0502&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf0502" /> </p>
 
