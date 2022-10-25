@@ -19,6 +19,6 @@
 <h3 align="center"><img src="https://github.com/Lonewolf0502/Lonewolf0502/blob/main/assets/giphy1.gif"></h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf0502&" alt="Aditya Dwivedi" /></p>
-<p align = "center">  ![Aditya Dwivedi GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=lonewolf0502&theme=rogue&hide_border=true&area=true)</p>
+ ![Aditya Dwivedi GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=lonewolf0502&theme=rogue&hide_border=true&area=true)
 
 
