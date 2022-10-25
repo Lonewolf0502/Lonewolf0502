@@ -21,6 +21,6 @@
                      
  ![Aditya Dwivedi GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=lonewolf0502&theme=rogue&hide_border=true&area=true)
  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf0502&" alt="Aditya Dwivedi"></p>
+  <p align ="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf0502&" alt="Aditya Dwivedi"></p>
 
 
