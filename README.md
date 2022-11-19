@@ -18,12 +18,12 @@
 
 
 
- /*                    
- ![Aditya Dwivedi GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=lonewolf0502&theme=rogue&hide_border=true&area=true)
+                   
+ <!--![Aditya Dwivedi GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=lonewolf0502&theme=rogue&hide_border=true&area=true)
  
   <p align ="center" ><img align="center" src="https://streak-stats.demolab.com?user=lonewolf0502&theme=earth" alt="Aditya Dwivedi"></p>
   
   <h3 align="center"><img src="https://github.com/Lonewolf0502/Lonewolf0502/blob/main/assets/giphy1.gif"></h3>
-  */
+  */ --!>
 
 
