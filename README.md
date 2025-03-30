@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonewolf0502&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf0502" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Web Development**
+- 🌱 I’m Devops Engineer at **Microsoft**
 
 - 📫 How to reach me **adityadwivediunique@gmail.com**
 
